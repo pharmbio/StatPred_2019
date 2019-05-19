@@ -16,7 +16,7 @@ Uppsala University
 
 ## Steps
 
-Hopefully you were at the lecture. The pdf of that is included here. For the lab first read the lab pdf (which will tell you to proceed with the MNIST then the MOA R code files). Good luck and have fun :)
+Hopefully you were at the lecture. The pdf of that is included here. For the lab first read the lab pdf (which will tell you how to proceed with the MNIST then the MOA R code files). Good luck and have fun :)
 
 ## Recommended reading
 
