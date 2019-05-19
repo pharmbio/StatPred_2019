@@ -14,6 +14,10 @@ Uppsala University
 
 20th-21st May 2019
 
+## Steps
+
+Hopefully you were at the lecture. The pdf of that is included here. For the lab first read the lab pdf (which will tell you to proceed with the MNIST then the MOA R code files). Good luck and have fun :)
+
 ## Recommended reading
 
 Deep learning in image cytometry: a review. An open access review paper: https://www.onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23701
